@@ -1,1 +1,3 @@
+This is an example of a random forest classification model, to predict whether a customer will buy a ticket or not.
 
+A .csv file was provided by british airways containg their booking data. 
