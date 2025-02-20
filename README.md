@@ -1,1 +1,1 @@
-This portfololio showcases a few independent projects displaying my Python Skills for Data Science.
+This postfolio conatains a few examples of applied Data Science and Machine Learning practices. 
