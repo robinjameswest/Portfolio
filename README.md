@@ -1,1 +1,1 @@
-An example of a random forest classifier. 
+This portfololio showcases a few independent projects displaying my Python Skills for Data Science.
